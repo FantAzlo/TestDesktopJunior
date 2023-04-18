@@ -2,10 +2,15 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Windows.Controls;
+using System.Windows.Input;
 using test_desktop_junior.Resources.Classes.test_desktop_junior.Resources.Classes;
 
 
@@ -27,6 +32,7 @@ namespace test_desktop_junior.Resources.Classes
         private ObservableCollection<XYR> _data = new ObservableCollection<XYR>();
         private RelayCommand _addCommand;
 
+
         /// <summary>
         /// Имя функции
         /// </summary>
@@ -39,6 +45,7 @@ namespace test_desktop_junior.Resources.Classes
         {
             get { return _varA; }
             set {
+
                 _varA = value;
                 OnPropertyChanged("A");
             }
@@ -106,7 +113,6 @@ namespace test_desktop_junior.Resources.Classes
             get { return _data; }
         }
 
-
         /// <summary>
         /// Конструктор класса функции
         /// </summary>
@@ -145,7 +151,7 @@ namespace test_desktop_junior.Resources.Classes
         {
             foreach(XYR d in _data)
             {
-                d.Calc(_varA, _varB, _cVariants[_varC], _pow);
+                d.Calc( _varA, _varB, _cVariants[_varC], _pow);
             }
         }
 

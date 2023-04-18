@@ -6792,11 +6792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
+      "projectUniqueName": "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
       "projectName": "Test_test_desktop_junior",
-      "projectPath": "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
+      "projectPath": "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
       "packagesPath": "C:\\Users\\azsha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\Test_test_desktop_junior\\obj\\",
+      "outputPath": "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\Test_test_desktop_junior\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azsha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6813,8 +6813,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\test_desktop_junior\\test_desktop_junior.csproj": {
-              "projectPath": "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\test_desktop_junior\\test_desktop_junior.csproj"
+            "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\test_desktop_junior\\test_desktop_junior.csproj": {
+              "projectPath": "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\test_desktop_junior\\test_desktop_junior.csproj"
             }
           }
         }

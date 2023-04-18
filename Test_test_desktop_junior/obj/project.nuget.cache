@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dkhC9A9oZR0p8nr3LJcK4mAxwiZFhtmRC8qOSCo04gx2u2BjJBljXi49zhVFWPH0AvKShYiNOxTAB3YgDpKglw==",
+  "dgSpecHash": "e7hdAC7Oupm97ktRINfjWkc30JPjA9MSBSQAuMvsVqDvShhpvz3AehLpSfiOWpMKRR08rHxkUYDBT2lGNmoLTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\azsha\\source\\repos\\test_desktop_junior_MVVM\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
+  "projectFilePath": "C:\\Users\\azsha\\OneDrive\\Рабочий стол\\Test_Desktop_Jun\\Test_test_desktop_junior\\Test_test_desktop_junior.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azsha\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\azsha\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

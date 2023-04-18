@@ -4,6 +4,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -34,10 +35,21 @@ namespace test_desktop_junior
             WindowChrome.SetWindowChrome(this, windowChrome);
 
             InitializeComponent();
-
             this.DataContext = new AplicationViewModel(this, maximize_bt);        
         }
 
+        /// <summary>
+        /// Валидация ввода, не нашел адекватной реализации для MVVM без огромного кода
+        /// </summary>
+        public void IsAllowedInput(object sender, TextCompositionEventArgs e)
+        {
+            Regex regex = new Regex("[^0-9.-]+");
+            e.Handled = regex.IsMatch(e.Text);
+        }
+
+        /// <summary>
+        /// Перетаскивание окна
+        /// </summary>
         private void HeadPanel_MouseDown(object sender, MouseButtonEventArgs e)
         {
             if (e.ChangedButton == MouseButton.Left)
@@ -45,7 +57,11 @@ namespace test_desktop_junior
                 this.DragMove();
             }
         }
-     
+
+
+        /// <summary>
+        /// Адаптивность
+        /// </summary>
         private void Window_SizeChanged(object sender, SizeChangedEventArgs e)
         {
             Console.WriteLine("size_changed");

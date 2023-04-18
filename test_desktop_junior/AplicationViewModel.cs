@@ -6,9 +6,11 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Security.Policy;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Input;
 using System.Windows.Media.Imaging;
 using test_desktop_junior.Resources.Classes;
 using test_desktop_junior.Resources.Classes.test_desktop_junior.Resources.Classes;
@@ -108,6 +110,7 @@ namespace test_desktop_junior
                 new XYFunc("5-ой степени", 5),
             };
         }
+        
 
         public event PropertyChangedEventHandler PropertyChanged;
         public void OnPropertyChanged([CallerMemberName] string prop = "")
