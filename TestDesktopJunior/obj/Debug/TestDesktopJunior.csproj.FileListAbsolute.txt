@@ -1,0 +1,44 @@
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.exe.config
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\TestDesktopJunior.csproj.AssemblyReference.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\TestDesktopJunior.csproj.SuggestedBindingRedirects.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\MainWindow.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\App.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.lref
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\MainWindow.baml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.g.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.Properties.Resources.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\TestDesktopJunior.csproj.GenerateResource.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\TestDesktopJunior.csproj.CoreCompileInputs.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\TestDesktopJunior.csproj.CopyComplete
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\test_desktop_junior.exe.config
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\test_desktop_junior.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\TestDesktopJunior.csproj.AssemblyReference.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\TestDesktopJunior.csproj.SuggestedBindingRedirects.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\MainWindow.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\App.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior_MarkupCompile.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior_MarkupCompile.lref
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\MainWindow.baml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior.g.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior.Properties.Resources.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\TestDesktopJunior.csproj.GenerateResource.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\TestDesktopJunior.csproj.CoreCompileInputs.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\TestDesktopJunior.csproj.CopyComplete
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun — копия\TestDesktopJunior\obj\Debug\test_desktop_junior.pdb

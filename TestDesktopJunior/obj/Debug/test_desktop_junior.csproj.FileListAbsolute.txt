@@ -1,0 +1,54 @@
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\bin\Debug\test_desktop_junior.exe.config
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\bin\Debug\test_desktop_junior.exe
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\bin\Debug\test_desktop_junior.pdb
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.AssemblyReference.cache
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.SuggestedBindingRedirects.cache
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\MainWindow.g.cs
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\App.g.cs
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.cache
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.lref
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\MainWindow.baml
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.g.resources
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.Properties.Resources.resources
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.GenerateResource.cache
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.CoreCompileInputs.cache
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.exe
+C:\Users\azsha\source\repos\test_desktop_junior\test_desktop_junior\obj\Debug\test_desktop_junior.pdb
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.AssemblyReference.cache
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.SuggestedBindingRedirects.cache
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\MainWindow.g.cs
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\App.g.cs
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.cache
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.lref
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.exe
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.pdb
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\bin\Debug\test_desktop_junior.exe.config
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\bin\Debug\test_desktop_junior.exe
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\bin\Debug\test_desktop_junior.pdb
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\MainWindow.baml
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.g.resources
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.Properties.Resources.resources
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.GenerateResource.cache
+C:\Users\azsha\source\repos\test_desktop_junior_MVVM\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.CoreCompileInputs.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.exe.config
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\test_desktop_junior.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.AssemblyReference.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.SuggestedBindingRedirects.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\MainWindow.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\App.g.cs
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior_MarkupCompile.lref
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\MainWindow.baml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.g.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.Properties.Resources.resources
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.GenerateResource.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.CoreCompileInputs.cache
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.exe
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\test_desktop_junior.csproj.CopyComplete
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\azsha\OneDrive\Рабочий стол\Test_Desktop_Jun\test_desktop_junior\obj\Debug\GeneratedInternalTypeHelper.g.cs
